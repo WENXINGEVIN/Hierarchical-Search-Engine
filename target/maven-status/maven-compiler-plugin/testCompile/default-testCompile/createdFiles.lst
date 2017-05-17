@@ -1,0 +1,6 @@
+edu/virginia/cs/solr/index/QuestionIndexCreationTest.class
+edu/virginia/cs/search/api/QuestionByTagTest.class
+edu/virginia/cs/core/HierarchyWriterTest.class
+edu/virginia/cs/core/BuildHierarchyTest.class
+edu/virginia/cs/solr/index/TagIndexCreationTest.class
+edu/virginia/cs/search/api/QuestionSearchTest.class

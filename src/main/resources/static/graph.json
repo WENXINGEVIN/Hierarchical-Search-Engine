@@ -1,0 +1,275 @@
+{
+  "nodes": [
+    {
+      "name": "javascript",
+      "group": 1
+    },
+    {
+      "name": "google-chrome",
+      "group": 1
+    },
+    {
+      "name": "browser",
+      "group": 1
+    },
+    {
+      "name": "npm",
+      "group": 1
+    },
+    {
+      "name": "node.js",
+      "group": 1
+    },
+    {
+      "name": "jquery",
+      "group": 1
+    },
+    {
+      "name": "bower",
+      "group": 1
+    },
+    {
+      "name": "reactjs",
+      "group": 1
+    },
+    {
+      "name": "angular",
+      "group": 1
+    },
+    {
+      "name": "vue.js",
+      "group": 1
+    },
+    {
+      "name": "d3.js",
+      "group": 2
+    },
+    {
+      "name": "web",
+      "group": 2
+    },
+    {
+      "name": "url",
+      "group": 3
+    },
+    {
+      "name": "web-services",
+      "group": 2
+    },
+    {
+      "name": "html",
+      "group": 2
+    },
+    {
+      "name": "css",
+      "group": 2
+    },
+    {
+      "name": "java",
+      "group": 3
+    },
+    {
+      "name": "javafx",
+      "group": 3
+    },
+    {
+      "name": "java-ee",
+      "group": 3
+    },
+    {
+      "name": "jpa",
+      "group": 3
+    },
+    {
+      "name": "Favourite",
+      "group": 3
+    },
+    {
+      "name": "Dahlia",
+      "group": 3
+    },
+    {
+      "name": "java-3d",
+      "group": 3
+    },
+    {
+      "name": "programming-languages",
+      "group": 3
+    },
+    {
+      "name": "scala",
+      "group": 4
+    },
+    {
+      "name": "spring-data",
+      "group": 4
+    },
+    {
+      "name": "spring",
+      "group": 5
+    },
+    {
+      "name": "python",
+      "group": 4
+    },
+    {
+      "name": "flask",
+      "group": 0
+    },
+    {
+      "name": "c#",
+      "group": 2
+    },
+    {
+      "name": "c++",
+      "group": 3
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "value": 1
+    },
+    {
+      "source": 1,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 3,
+      "target": 0,
+      "value": 10
+    },
+    {
+      "source": 4,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 5,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 6,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 7,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 8,
+      "target": 0,
+      "value": 2
+    },
+    {
+      "source": 9,
+      "target": 0,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 10,
+      "value": 1
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "value": 3
+    },
+    {
+      "source": 12,
+      "target": 11,
+      "value": 1
+    },
+    {
+      "source": 13,
+      "target": 11,
+      "value": 1
+    },
+    {
+      "source": 14,
+      "target": 11,
+      "value": 1
+    },
+    {
+      "source": 15,
+      "target": 11,
+      "value": 1
+    },
+    {
+      "source": 17,
+      "target": 16,
+      "value": 4
+    },
+    {
+      "source": 18,
+      "target": 16,
+      "value": 4
+    },
+    {
+      "source": 19,
+      "target": 18,
+      "value": 4
+    },
+    {
+      "source": 21,
+      "target": 20,
+      "value": 5
+    },
+    {
+      "source": 22,
+      "target": 16,
+      "value": 3
+    },
+    {
+      "source": 23,
+      "target": 16,
+      "value": 3
+    },
+    {
+      "source": 23,
+      "target": 11,
+      "value": 9
+    },
+    {
+      "source": 24,
+      "target": 23,
+      "value": 2
+    },
+    {
+      "source": 26,
+      "target": 16,
+      "value": 1
+    },
+    {
+      "source": 26,
+      "target": 25,
+      "value": 1
+    },
+    {
+      "source": 27,
+      "target": 23,
+      "value": 5
+    },
+    {
+      "source": 28,
+      "target": 27,
+      "value": 1
+    },
+    {
+      "source": 29,
+      "target": 23,
+      "value": 1
+    },
+    {
+      "source": 30,
+      "target": 23,
+      "value": 1
+    }
+  ]
+}
